@@ -1,0 +1,3 @@
+var Speed = 54
+var Score = 46
+Speed += Score <= 100
